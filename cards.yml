@@ -1,0 +1,11 @@
+build:
+  version: "30.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Pandey Rohit - Developer"
+    email: "file@eazybank.com"
+  onCallSupport:
+    - (8030) 419-3491
+    - (8030) 382-1932

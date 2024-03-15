@@ -1,0 +1,11 @@
+build:
+  version: "10.1"
+
+accounts:
+  message: "Welcome to accounts related QA APIs "
+  contactDetails:
+    name: "Jain Samyak - QA Lead"
+    email: "file@eazybank.com"
+  onCallSupport:
+    - (8010) 875-4367
+    - (8010) 236-1267

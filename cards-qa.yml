@@ -1,0 +1,11 @@
+build:
+version: "30.1"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Grover Pankaj - QA Lead"
+    email: "file@eazybank.com"
+  onCallSupport:
+    - (8030) 875-4367
+    - (8030) 236-1267
