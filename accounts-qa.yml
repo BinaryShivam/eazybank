@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to accounts related QA APIs "
   contactDetails:
     name: "Jain Samyak - QA Lead"
-    email: "b09105ea6255298a14470003c32b9b18246f2430fb50b8b8aa529bd3b2d4cff70483525b01cbd513b9b63fa958d8dd52"
+    email: "{cipher}b09105ea6255298a14470003c32b9b18246f2430fb50b8b8aa529bd3b2d4cff70483525b01cbd513b9b63fa958d8dd52"
   onCallSupport:
     - (8010) 875-4367
     - (8010) 236-1267
