@@ -2,7 +2,7 @@ build:
   version: "10.1"
 
 accounts:
-  message: "Welcome to accounts related QA APIs "
+  message: "Welcome to the accounts related QA APIs "
   contactDetails:
     name: "Dubey Samyak - QA Lead"
     email: "{cipher}b09105ea6255298a14470003c32b9b18246f2430fb50b8b8aa529bd3b2d4cff70483525b01cbd513b9b63fa958d8dd52"
