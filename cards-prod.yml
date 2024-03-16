@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
-    name: "Pandey Subodh - Product Owner"
+    name: "Pandey Mangal - Product Owner"
     email: "file@eazybank.com"
   onCallSupport:
     - (8030) 432-2356
