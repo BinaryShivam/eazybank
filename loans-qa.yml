@@ -2,10 +2,10 @@ build:
   version: "20.1"
 
 loans:
-  message: "Welcome the loans related QA APIs "
+  message: "Welcome to the loans related QA APIs "
   contactDetails:
-    name: "Grover Puneet - QA Lead"
-    email: "file@eazybank.com"
+    name: "Grover Ankit - QA Lead"
+    email: "grover@eazybank.com"
   onCallSupport:
     - (8020) 875-4367
     - (8020) 236-1267
