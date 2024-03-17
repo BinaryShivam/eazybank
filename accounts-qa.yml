@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to the Accounts related QA APIs "
   contactDetails:
-    name: "Pannu Samyak - QA Lead"
+    name: "Lodhi Samyak - QA Lead"
     email: "{cipher}b09105ea6255298a14470003c32b9b18246f2430fb50b8b8aa529bd3b2d4cff70483525b01cbd513b9b63fa958d8dd52"
   onCallSupport:
     - (8010) 875-4367
