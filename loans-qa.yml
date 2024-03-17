@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to the loans related QA APIs "
   contactDetails:
-    name: "Chaddha Ankit - QA Lead"
+    name: "Soni Ankit - QA Lead"
     email: "grover@eazybank.com"
   onCallSupport:
     - (8020) 875-4367
