@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to accounts related default APIs "
   contactDetails:
-    name: "Pandey Shivam - Developer"
+    name: "Pandey Divya - Developer"
     email: "{cipher}7f067ce5f22e1ab1af925a86f34b42d37b89a6db126491ca89d379b184463a962b00cb47d0d33cedebb32a076dfdaca5"
     # cipher keyword tells that it is an encrypted value
   onCallSupport:
