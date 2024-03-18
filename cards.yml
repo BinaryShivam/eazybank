@@ -2,9 +2,9 @@ build:
   version: "30.0"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to EazyBank cards related default APIs "
   contactDetails:
-    name: "Pandey Rohit - Developer"
+    name: "Pandey Pragya - Developer"
     email: "file@eazybank.com"
   onCallSupport:
     - (8030) 419-3491
