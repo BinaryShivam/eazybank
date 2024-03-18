@@ -2,9 +2,9 @@ build:
   version: "20.0"
 
 loans:
-  message: "Welcome to EazyBank loans related local APIs "
+  message: "Welcome to EazyBank loans related default APIs "
   contactDetails:
-    name: "Pandey Shivam - Developer"
+    name: "Pandey Mangal - Developer"
     email: "file@eazybank.com"
   onCallSupport:
     - (8020) 419-3491
