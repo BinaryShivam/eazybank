@@ -1,11 +1,11 @@
 build:
-  version: "20.2"
+  version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIs "
+  message: "Welcome to EazyBank loans related prod APIs"
   contactDetails:
-    name: "Parauha Lalit - Product Owner"
-    email: "file@eazybank.com"
+    name: "Suraj-Project Manager"
+    email: "suraj@eazybank.com"
   onCallSupport:
-    - (8020) 432-2356
-    - (8020) 564-8721
+    - (+91) 9876543210
+    - (+91) 9988776655

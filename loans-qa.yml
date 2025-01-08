@@ -1,11 +1,11 @@
 build:
-  version: "20.1"
+  version: "2.0"
 
 loans:
-  message: "Welcome to the loans related QA APIs "
+  message: "Welcome to EazyBank loans related qa APIs"
   contactDetails:
-    name: "Soni Ankit - QA Lead"
-    email: "grover@eazybank.com"
+    name: "Swati-QA Lead"
+    email: "swati@eazybank.com"
   onCallSupport:
-    - (8020) 875-4367
-    - (8020) 236-1267
+    - (+91) 9876543210
+    - (+91) 9988776655

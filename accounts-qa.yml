@@ -1,11 +1,11 @@
 build:
-  version: "10.1"
+  version: "2.0"
 
 accounts:
-  message: "Welcome to the Accounts related QA APIs "
+  message: "Welcome to EazyBank accounts related QA APIs"
   contactDetails:
-    name: "Ratnesh Patel - QA Lead"
-    email: "{cipher}b09105ea6255298a14470003c32b9b18246f2430fb50b8b8aa529bd3b2d4cff70483525b01cbd513b9b63fa958d8dd52"
+    name: "Prashant - QA Lead"
+    email: "prashant@eazybank.com"
   onCallSupport:
-    - (8010) 875-4367
-    - (8010) 236-1267
+    - (+91) 8877665544
+    - (+91) 8876576544

@@ -1,11 +1,11 @@
 build:
-  version: "10.2"
+  version: "1.0"
 
 accounts:
-  message: "Welcome to accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
-    name: "Sharma Ram - Product Owner"
-    email: "file@eazybank.com"
+    name: "Sudheer - Production Manger"
+    email: "sudheer@eazybank.com"
   onCallSupport:
-    - (8010) 432-2356
-    - (8010) 564-8721
+    - (+91) 7788665544
+    - (+91) 7765433221

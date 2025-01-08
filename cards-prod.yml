@@ -1,11 +1,11 @@
 build:
-  version: "30.2"
+  version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related prod APIs"
   contactDetails:
-    name: "Pandey Mangal - Product Owner"
-    email: "file@eazybank.com"
+    name: "Uday - Project manager"
+    email: "uday@eazybank.com"
   onCallSupport:
-    - (8030) 432-2356
-    - (8030) 564-8721
+    - (+91) 9876543210
+    - (+91) 9988776655
