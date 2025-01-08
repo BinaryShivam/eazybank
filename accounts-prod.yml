@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
-    name: "Sudheer - Production Manger"
+    name: "Sudheer Peepla - Production Manger"
     email: "sudheer@eazybank.com"
   onCallSupport:
     - (+91) 7788665544
