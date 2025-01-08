@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Sudheer Peepla - Production Manger"
     email: "{cipher}2eafad637a801413785267abd68d1df3ee85de266bc316bc78ac013f7757f44e26bec87797476585ba04cfe5463f815d"
