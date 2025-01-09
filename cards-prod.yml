@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related production APIs: Rabbit Listening"
+  message: "Welcome to EazyBank cards related production APIs: Webhook"
   contactDetails:
     name: "Uday - Project manager"
     email: "uday@eazybank.com"
